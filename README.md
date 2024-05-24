@@ -1,7 +1,7 @@
 # Assembly-Line-Management-System
 This project was developed to apply and enhance my C++ Object Oriented Programming skills. By simulating an assembly line with multiple workstations, I aimed to create a practical application that demonstrates the concepts of class design, object management, and system integration. The project also provides an opportunity to solve a complex problem by breaking it down into manageable modules and milestones.
 
-#Features
+# Features
 The main features of this project include:
 
 Utilities Module: Handles parsing input files to set up and configure the assembly line.
